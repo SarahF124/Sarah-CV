@@ -77,7 +77,7 @@ hr {
       <td>CSS</td>
       <td>⭐⭐⭐</td>
     </tr>
-  </table>
+  </table><br>
   <hr>
   <a href="hobbies.html">My Hobbies</a>
   <a href="contact-me.html">Contact Me</a>
