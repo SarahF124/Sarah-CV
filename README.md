@@ -26,7 +26,6 @@ hr {
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="./images/Sarah.png" width=300; height=300; alt="sarah profile picture" /></td>
       <td>
         <h1>Sarah Freedman</h1>
         <p><em>Founder and Creator of <strong> <a href="http://videotimewasters.com/">Sarah's Blog</a></strong></em></p>
